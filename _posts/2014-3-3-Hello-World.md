@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey
+title: Hey Guys
 published: true
 ---
 ### This is my first post!
